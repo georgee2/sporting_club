@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Sporting Club</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>sportingClub</string>
+				<string>com.googleusercontent.apps.230676029629-p39p34urqlbq1018nkeh71jimgfgg14m</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>https</string>
+		<string>http</string>
+		<string>tel</string>
+		<string>mailto</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSAllowsArbitraryLoadsInWebContent</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>We needs access to your media so that you can upload images for complaint and reviews</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Allow access to calenders to share events</string>
+	<key>NSCameraUsageDescription</key>
+	<string>We needs access to the camera so that you can upload images for complaint and reviews</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Allow access your contacts</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>This app needs access to location to send doctor location for sos.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app needs access to location to send doctor location for sos.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Need microphone access </string>
+	<key>NSMotionUsageDescription</key>
+	<string>This app needs access to motion to send doctor location for sos.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>We needs access to the photos so that you can upload images for complaint and reviews</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Allow access to Speech Recognition</string>
+	<key>OneSignal_disable_badge_clearing</key>
+	<true/>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>branch_key</key>
+	<dict>
+		<key>live</key>
+		<string>key_live_blIz2AlEGOXLyBdv6ZBMqoamwynxAU3Z</string>
+		<key>test</key>
+		<string>key_test_haHq6uhzNV0Lxwlz27SCbbnlBshrr8he</string>
+	</dict>
+	<key>branch_universal_link_domains</key>
+	<array>
+		<string>applinks:sporting-alternate.app.link</string>
+		<string>applinks:sporting.app.link</string>
+	</array>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
+	<key>kTCCServiceMediaLibrary</key>
+	<string>We needs access to the music so that you can play audio</string>
+	<key>encryption </key>
+	<string></string>
+</dict>
+</plist>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "230676029629",
+    "firebase_url": "https://sporting-club-live.firebaseio.com",
+    "project_id": "sporting-club-live",
+    "storage_bucket": "sporting-club-live.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230676029629:android:b92590c087b99e5df657d4",
+        "android_client_info": {
+          "package_name": "com.objects.sporting_club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230676029629-12bc97k3vqoshkirirojmgfembnuto5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC8Hq8owV9Pja9x4qn6_H7TntoAABZ_5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230676029629-12bc97k3vqoshkirirojmgfembnuto5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
